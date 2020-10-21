@@ -1,0 +1,29 @@
+[
+    {
+    "id" : 1,
+    "date" : "27-05-2020",
+    "time" : "16:40:40",
+    "medicine" : "xyz",
+    "diseases" : "abc"
+    },
+    {
+        "id" : 2,
+        "date" : "27-05-2020",
+        "time" : "16:40:40",
+        "medicine" : "xyz",
+        "diseases" : "abc"
+        },
+        {
+            "id" : 3,
+            "date" : "27-05-2020",
+            "time" : "16:40:40",
+            "medicine" : "xyz",
+            "diseases" : "abc"
+            },{
+                "id" : 4,
+                "date" : "27-05-2020",
+                "time" : "16:40:40",
+                "medicine" : "xyz",
+                "diseases" : "abc"
+                }
+]
